@@ -1,0 +1,38 @@
+{
+  "manifest_version": "1.0",
+  "org": "stephenc",
+  "repo": "wagon-gitsite",
+  "versions": [
+    {
+      "commit": "8d21ce43189ba226de09c3ecb44eead0f0bf4f20",
+      "parsed_at": "2026-04-13T21:06:39.398220+00:00",
+      "tag": "wagon-gitsite-site-0.2",
+      "filetree": "filetree/8d21ce43189ba226de09c3ecb44eead0f0bf4f20.nq.gz",
+      "blobs": [
+        "blob/bebb6622847234ffb08801d1be891d4fe8ebaad1.nq.gz",
+        "blob/6ea9e5161615fcf6cdb0d194d913139c26fa417a.nq.gz",
+        "blob/3f999fc88b360074e41f38c3b4bc06ccb3bb7cf8.nq.gz",
+        "blob/c6cb9ad7ce438a798426703e86a7ffc197d51dbb.nq.gz",
+        "blob/1e5e00fc77378a6b02a8a160ed62fffe9238aee3.nq.gz",
+        "blob/5beac166dd79c5872b6ad3c3c8826781b74ef564.nq.gz",
+        "blob/5fe1845a4d636abe00a052c4629d4ad8259c21e5.nq.gz",
+        "blob/4a4568b3e07875ed80278aaf1eb21d88af25766c.nq.gz",
+        "blob/16b12d32be02bb704360f911c10bf7b0bcff007d.nq.gz",
+        "blob/61132ef2b01806f6122c31d173c98e01e499b9a0.nq.gz",
+        "blob/26ad7f0b59987a627dcc5f00c7a75ad052878bc5.nq.gz",
+        "blob/873bbb52cb9768103c27fbb9a9bac16ac615fce5.nq.gz",
+        "blob/c982168bf240caf9fbedfe644dfc1dae245145ec.nq.gz",
+        "blob/1c26bbc5264fcc943ad7b5a0f1a84daece211f34.nq.gz",
+        "blob/6287f72bd08a870908e7361d98c35ee0d6dcbc82.nq.gz",
+        "blob/532993e424f425593ba6adf684d90bbb33347986.nq.gz",
+        "blob/c814867a13deb0ca7ea2156c6ca1d5a03372af7e.nq.gz",
+        "blob/e3dc7c56cdcf36bcac19827f3aed9e422f1f497a.nq.gz",
+        "blob/52e85a430af9da4dfb217d71b4d6f3a1d4a4b571.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
